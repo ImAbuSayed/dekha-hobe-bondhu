@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Dekha Hobe Bondhu
+
+This log tracks the cryptographic history and versioning for the song **Dekha Hobe Bondhu** (dekha-hobe-bondhu).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-12T09:55:55.569325 | `v1` | `27b34645d452ac5a01fa317676378659f4ee3e5c4a109f54ae02a96d9c425574` | `30aa6d1247ee3b51d8c67da40e272700794ce7483b50d2fec3ffbc0c157c4780` | `2026-05-12_dekha-hobe-bondhu-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
