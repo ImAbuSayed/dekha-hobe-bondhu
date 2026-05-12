@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dekha-hobe-bondhu/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Dekha Hobe Bondhu](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dekha-hobe-bondhu/) |
+| **Get License** | [Commercial Licensing for Dekha Hobe Bondhu](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dekha-hobe-bondhu/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/1355)
 
 ---
 
