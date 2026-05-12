@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dekha-hobe-bondhu/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Dekha Hobe Bondhu](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dekha-hobe-bondhu/) |
+| **Get License** | [Get a Licensing Quote for Dekha Hobe Bondhu](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dekha-hobe-bondhu/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অচেনা এই শহরে তোমায় খুঁজি সারাক্ষণ
+> তোমার ঐ চোখের তারায় আমার বন্দি মন
+> মেঘলা আকাশে আজ শুধু তোমারই ছায়া
+> হৃদয় জুড়ে বেজে ওঠে অচিন এক মায়া
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
